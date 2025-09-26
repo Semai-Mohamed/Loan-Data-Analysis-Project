@@ -1,7 +1,7 @@
 # 📊 Loan Data Analysis Project  
 
 ## 📌 Overview  
-A data analysis project focused on loan applications to explore trends, financial patterns, and regional dynamics.  
+A small training project for practicing data analysis techniques using loan application data.  
 
 ---
 
@@ -30,5 +30,6 @@ A data analysis project focused on loan applications to explore trends, financia
 - Visualization and reporting  
 
 ---
+
 
 
